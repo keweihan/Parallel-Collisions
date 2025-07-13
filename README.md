@@ -3,6 +3,10 @@ An exercise in parallelizing collision detection and resolution in [SimpleECS](h
 
 
 
+https://github.com/user-attachments/assets/c09d6ef4-db78-4ed6-9f24-0912e2562397
+
+
+
 
 ## Getting Started
 ### Prerequsites
